@@ -1,0 +1,49 @@
+
+.container{
+    margin:0 auto;
+    max-width: 400px;
+    text-align: center;
+    padding:20px;
+    font-family: "Courier New", sans-serif;
+    background-color: #ffb9cf;
+}
+
+.title{
+    font-size: 36px;
+    padding: 20px;
+    color:#622436;
+    
+}
+
+.timer{
+    font-size: 60px;
+    margin-top: 10px;
+    color: #622436;
+}
+
+button{
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 8px;
+    color:aliceblue;
+    border: 10px;
+    border-radius: 5px;
+    cursor:pointer;
+    text-transform: uppercase;
+    font-family: "Courier New", sans-serif;
+
+}
+
+button:hover{
+    opacity: 0.5;
+}
+
+#start{
+    background-color: #c2536b;
+}
+#stop{
+    background-color: #c2536b;
+}
+#reset{
+    background-color: #c2536b;
+}
